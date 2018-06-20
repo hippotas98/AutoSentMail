@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D3D69CEF-D9AB-4064-8C24-3457B76E8958}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sent/Models/Email.cs">
+    <Files>
+      <File FileName="Sent/Models/Email.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sent PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

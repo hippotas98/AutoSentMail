@@ -1,0 +1,11 @@
+/Users/apple/Projects/Sent/Sent/bin/Debug/netcoreapp2.0/Sent.deps.json
+/Users/apple/Projects/Sent/Sent/bin/Debug/netcoreapp2.0/Sent.runtimeconfig.json
+/Users/apple/Projects/Sent/Sent/bin/Debug/netcoreapp2.0/Sent.runtimeconfig.dev.json
+/Users/apple/Projects/Sent/Sent/bin/Debug/netcoreapp2.0/Sent.dll
+/Users/apple/Projects/Sent/Sent/bin/Debug/netcoreapp2.0/Sent.pdb
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.csprojResolveAssemblyReference.cache
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.AssemblyInfoInputs.cache
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.AssemblyInfo.cs
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.dll
+/Users/apple/Projects/Sent/Sent/obj/Debug/netcoreapp2.0/Sent.pdb
